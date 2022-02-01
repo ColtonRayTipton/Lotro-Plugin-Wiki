@@ -1,4 +1,4 @@
-# Welcome to the LotroAPI Repository!
+# Welcome to the Wiki Repository!
 
 I do not own rights to the documents. I am simply putting it here for another ease of access to use, and for anyone else wanting to download.
 
